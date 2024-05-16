@@ -1,0 +1,37 @@
+{
+  "room": [
+    {
+      "id": "8675",
+      "name": "jignesh",
+      "mobile": "1235467892",
+      "address": "kamrej surat",
+      "arrival": "2024-05-10",
+      "checkout": "2024-05-14",
+      "roomlist": "platinum",
+      "roomtype": "double bedroom",
+      "lunchtime": "breakfast and lunch"
+    },
+    {
+      "id": "50ac",
+      "name": "test",
+      "mobile": "9876543214",
+      "address": "surat",
+      "arrival": "2024-05-02",
+      "checkout": "2024-05-12",
+      "roomlist": "prime",
+      "roomtype": "double bedroom",
+      "lunchtime": "breakfast and lunch"
+    },
+    {
+      "id": "c1a8",
+      "name": "abcd",
+      "mobile": "7539684216",
+      "address": "surat",
+      "arrival": "2024-05-05",
+      "checkout": "2024-05-07",
+      "roomlist": "platinum",
+      "roomtype": "single bedroom",
+      "lunchtime": "breakfast"
+    }
+  ]
+}
