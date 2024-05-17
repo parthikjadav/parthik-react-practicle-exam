@@ -11,7 +11,7 @@ const Adminlogin = () => {
             password: passowrd.current.value
         }
         console.log(data);
-        if ("parthik" == data.name && "123" == data.password) {
+        if ("jignesh" == data.name && "123" == data.password) {
             localStorage.setItem("role", "admin");
             window.location.href = "/reservation"
             console.log("login successfull");
